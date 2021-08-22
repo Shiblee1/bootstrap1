@@ -1,10 +1,37 @@
 
 .bgstyle{
     background: #562eff;
+    width: 70%;
+    color: white;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;    
+   
+}
+
+.fab{
+    color: white;
+}
+.navbar a{
+    color: white !important;
+}
+.navbar-nav li a{
+    color: white !important;
+}
+.navbar-nav li{
+    padding-right: 20px;
+
+}
+/**-----------------section-1----------------------**/
+.fullcont{
+    background: rgb(209, 209, 209);
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 2%;
     
 }
-.navbar-nav{
-align-items: right;
-align-content: right;
-text-align: right !important;
+.title{
+    margin-top: 10px !important;
 }
