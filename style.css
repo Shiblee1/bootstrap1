@@ -1,0 +1,10 @@
+
+.bgstyle{
+    background: #562eff;
+    
+}
+.navbar-nav{
+align-items: right;
+align-content: right;
+text-align: right !important;
+}
