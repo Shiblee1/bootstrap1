@@ -35,16 +35,33 @@
 .title{
     margin-top: 10px !important;
 }
-.top-title::before{
-    content: '';
-    background: white;
-    width: 100px;
-    height: 15px;
-   
-}
+
 .line{
     background: white;
     width: 100%;
     height: 2px;
     margin-top: 5%;
+}
+
+
+/**-----------------section-2----------------------**/
+.section-2{
+    background: rgb(209, 209, 209);
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 2%;
+    
+}
+.time{
+    background: rgba(223, 146, 146, 0.7);
+    display: inline-block;
+    padding: 3px;
+    border-radius: 3px;
+}
+.fa-star{
+    color: rgb(199, 199, 8);
+    font-size: 0.8rem;
+}
+.fa-star:nth-child(7) {
+    color: rgb(94, 94, 94);   
 }
